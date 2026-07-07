@@ -1,4 +1,4 @@
-# 🌱 Analysis-of-Tillage-Effects-on-Beneficial-Ant-Activity-and-Pest-Predation-in-Soybean-Fields
+# 🌱 Analysis of Tillage Effects on Beneficial Ant-Activity and Pest Predation in Soybean Fields
 
 > **Using Machine Learning to Explore Sustainable Agriculture and Biological Pest Control**
 
@@ -165,11 +165,3 @@ Understanding how agricultural practices influence beneficial insect communities
 
 ---
 
-## 👩‍💻 Author
-
-**Maham Taqi**
-
-
-
-## ⭐ If you found this project helpful, consider giving it a star!
-````
